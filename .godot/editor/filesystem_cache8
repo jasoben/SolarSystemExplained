@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707941232
+EccentricRotate.gd::GDScript::-1::1707941168::0::1::::<>Node2D<>::
+icon.svg::CompressedTexture2D::4006019370751187460::1707939406::1707939410::1::::<><>::
+solar_system_squashed.tscn::PackedScene::8939848443843975862::1707941242::0::1::::<><>::res://EccentricRotate.gd<>uid://bxcss3etodn8w::::res://icon.svg<>res://Rotate.gd
+Rotate.gd::GDScript::-1::1707940973::0::1::::<>Node2D<>::
+solar_system_unsquashed.tscn::PackedScene::7473041394820268131::1707941211::0::1::::<><>::uid://bxcss3etodn8w::::res://icon.svg<>res://EccentricRotate.gd<>res://Rotate.gd
